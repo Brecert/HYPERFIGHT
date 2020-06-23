@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fight2.ogg-637d324947c1fa4718bd27f1200a9933.oggstr"
+
+[deps]
+
+source_file="res://sounds/fight2.ogg"
+dest_files=[ "res://.import/fight2.ogg-637d324947c1fa4718bd27f1200a9933.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

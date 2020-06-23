@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_yoyo_special_boom.ogg-21db7601d8f81a22edb5123621d7fb7d.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_yoyo_special_boom.ogg"
+dest_files=[ "res://.import/char_yoyo_special_boom.ogg-21db7601d8f81a22edb5123621d7fb7d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

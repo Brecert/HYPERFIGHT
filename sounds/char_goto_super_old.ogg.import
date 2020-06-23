@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_goto_super_old.ogg-a12ef0126247abeb1dc0c9d0482c841c.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_goto_super_old.ogg"
+dest_files=[ "res://.import/char_goto_super_old.ogg-a12ef0126247abeb1dc0c9d0482c841c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

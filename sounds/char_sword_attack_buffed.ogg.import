@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_sword_attack_buffed.ogg-4595a0cc63eaa3e1e7c23716c66dc49d.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_sword_attack_buffed.ogg"
+dest_files=[ "res://.import/char_sword_attack_buffed.ogg-4595a0cc63eaa3e1e7c23716c66dc49d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/theme_yoyo.ogg-8cfad1e8618bdee25ca40e1026b94603.oggstr"
+
+[deps]
+
+source_file="res://sounds/theme_yoyo.ogg"
+dest_files=[ "res://.import/theme_yoyo.ogg-8cfad1e8618bdee25ca40e1026b94603.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

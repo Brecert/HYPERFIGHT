@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_darkgoto_attack_old.ogg-3624f380fb21be7af6ded02689aa98e9.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_darkgoto_attack_old.ogg"
+dest_files=[ "res://.import/char_darkgoto_attack_old.ogg-3624f380fb21be7af6ded02689aa98e9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

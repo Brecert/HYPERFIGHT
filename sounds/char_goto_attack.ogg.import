@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_goto_attack.ogg-08986b48a8eb9d07e2f3cdf6f614651d.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_goto_attack.ogg"
+dest_files=[ "res://.import/char_goto_attack.ogg-08986b48a8eb9d07e2f3cdf6f614651d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

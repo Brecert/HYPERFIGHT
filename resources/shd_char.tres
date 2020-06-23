@@ -1,0 +1,84 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[sub_resource type="Shader" id=1]
+code = "shader_type canvas_item;
+
+uniform vec4 color_o0;
+uniform vec4 color_n0;
+uniform vec4 color_o1;
+uniform vec4 color_n1;
+uniform vec4 color_o2;
+uniform vec4 color_n2;
+uniform vec4 color_o3;
+uniform vec4 color_n3;
+uniform vec4 color_o4;
+uniform vec4 color_n4;
+uniform vec4 color_o5;
+uniform vec4 color_n5;
+uniform vec4 color_o6;
+uniform vec4 color_n6;
+uniform vec4 color_o7;
+uniform vec4 color_n7;
+uniform vec4 color_o8;
+uniform vec4 color_n8;
+uniform vec4 color_o9;
+uniform vec4 color_n9;
+
+uniform float threshold;
+
+uniform float white_amount;
+
+void apply_palette_color(inout vec4 texture_color, vec4 color_o, vec4 color_n) {
+	vec3 diff = texture_color.rgb - color_o.rgb;
+	if(abs(length(diff)) < threshold)
+	{
+	    texture_color.rgb = color_n.rgb * (vec3(1.0, 1.0, 1.0) - diff);
+	}
+}
+
+void fragment() {
+	vec4 texture_color = texture(TEXTURE, UV);
+	
+	// modify palette
+	apply_palette_color(texture_color, color_o0, color_n0);
+	apply_palette_color(texture_color, color_o1, color_n1);
+	apply_palette_color(texture_color, color_o2, color_n2);
+	apply_palette_color(texture_color, color_o3, color_n3);
+	apply_palette_color(texture_color, color_o4, color_n4);
+	apply_palette_color(texture_color, color_o5, color_n5);
+	apply_palette_color(texture_color, color_o6, color_n6);
+	apply_palette_color(texture_color, color_o7, color_n7);
+	apply_palette_color(texture_color, color_o8, color_n8);
+	apply_palette_color(texture_color, color_o9, color_n9);
+	
+	// apply white amount
+	texture_color = vec4(mix(texture_color.rgb, vec3(1.0, 1.0, 1.0), white_amount), texture_color.a);
+	
+	COLOR = texture_color;
+}"
+
+[resource]
+resource_local_to_scene = true
+shader = SubResource( 1 )
+shader_param/color_o0 = null
+shader_param/color_n0 = null
+shader_param/color_o1 = null
+shader_param/color_n1 = null
+shader_param/color_o2 = null
+shader_param/color_n2 = null
+shader_param/color_o3 = null
+shader_param/color_n3 = null
+shader_param/color_o4 = null
+shader_param/color_n4 = null
+shader_param/color_o5 = null
+shader_param/color_n5 = null
+shader_param/color_o6 = null
+shader_param/color_n6 = null
+shader_param/color_o7 = null
+shader_param/color_n7 = null
+shader_param/color_o8 = null
+shader_param/color_n8 = null
+shader_param/color_o9 = null
+shader_param/color_n9 = null
+shader_param/threshold = null
+shader_param/white_amount = null

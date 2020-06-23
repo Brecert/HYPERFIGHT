@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/theme_kero.ogg-8ae49f52f51d299ce732fa3d3be677e1.oggstr"
+
+[deps]
+
+source_file="res://sounds/theme_kero.ogg"
+dest_files=[ "res://.import/theme_kero.ogg-8ae49f52f51d299ce732fa3d3be677e1.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

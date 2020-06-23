@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_time_attack.ogg-ee11e846f77cce18849f8639310fec78.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_time_attack.ogg"
+dest_files=[ "res://.import/char_time_attack.ogg-ee11e846f77cce18849f8639310fec78.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

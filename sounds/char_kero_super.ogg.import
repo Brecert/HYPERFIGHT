@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_kero_super.ogg-8b83c81f2c51e943def18b889ec97652.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_kero_super.ogg"
+dest_files=[ "res://.import/char_kero_super.ogg-8b83c81f2c51e943def18b889ec97652.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_time_super_boom.ogg-3b01392b07845393c56d23ab84847ba2.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_time_super_boom.ogg"
+dest_files=[ "res://.import/char_time_super_boom.ogg-3b01392b07845393c56d23ab84847ba2.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

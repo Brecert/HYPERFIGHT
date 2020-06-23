@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_goto_attack_down_old.ogg-24234734752959e2308ac3973a38b0a6.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_goto_attack_down_old.ogg"
+dest_files=[ "res://.import/char_goto_attack_down_old.ogg-24234734752959e2308ac3973a38b0a6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

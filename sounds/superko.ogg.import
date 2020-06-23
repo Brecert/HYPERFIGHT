@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/superko.ogg-93231c0be33bb4a21621e645c699ade4.oggstr"
+
+[deps]
+
+source_file="res://sounds/superko.ogg"
+dest_files=[ "res://.import/superko.ogg-93231c0be33bb4a21621e645c699ade4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

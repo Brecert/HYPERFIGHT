@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_kero_attack.ogg-6bc3b92c02d6af7a4d68602cbc7ad217.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_kero_attack.ogg"
+dest_files=[ "res://.import/char_kero_attack.ogg-6bc3b92c02d6af7a4d68602cbc7ad217.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_yoyo_attack.ogg-38f3207ac3baa7dc07d9b0c4ad3bf5ec.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_yoyo_attack.ogg"
+dest_files=[ "res://.import/char_yoyo_attack.ogg-38f3207ac3baa7dc07d9b0c4ad3bf5ec.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/theme_sword.ogg-8f35b408f5c0aa3854bea6f20bc0f1f5.oggstr"
+
+[deps]
+
+source_file="res://sounds/theme_sword.ogg"
+dest_files=[ "res://.import/theme_sword.ogg-8f35b408f5c0aa3854bea6f20bc0f1f5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

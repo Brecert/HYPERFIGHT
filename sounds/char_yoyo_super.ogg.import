@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/char_yoyo_super.ogg-f70abc4064ab44444ddeffad5b08e578.oggstr"
+
+[deps]
+
+source_file="res://sounds/char_yoyo_super.ogg"
+dest_files=[ "res://.import/char_yoyo_super.ogg-f70abc4064ab44444ddeffad5b08e578.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

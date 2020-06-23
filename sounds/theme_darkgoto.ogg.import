@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/theme_darkgoto.ogg-c50e0b529f87eea69cc01ff839509d55.oggstr"
+
+[deps]
+
+source_file="res://sounds/theme_darkgoto.ogg"
+dest_files=[ "res://.import/theme_darkgoto.ogg-c50e0b529f87eea69cc01ff839509d55.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
